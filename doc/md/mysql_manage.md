@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: mysql_manage
 typora-copy-images-to: mysql_manage
-top: 
+top: 1
 ---
 
 

@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: mysql_charset_collate
 typora-copy-images-to: mysql_charset_collate
-top: 
+top: 1
 ---
 
 

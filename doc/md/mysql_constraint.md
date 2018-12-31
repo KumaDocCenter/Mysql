@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: mysql_constraint
 typora-copy-images-to: mysql_constraint
-top: 
+top: 1
 ---
 
 

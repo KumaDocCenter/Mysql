@@ -1,5 +1,5 @@
 ---
-title: Mysql 索引
+title: Index
 mathjax: false
 categories:
   - Dev
@@ -9,7 +9,7 @@ typora-copy-images-to: index
 date: 2018-12-29 14:40:57
 updated: 2018-12-29 14:40:57
 tags:
-top:
+top: 0
 ---
 
 

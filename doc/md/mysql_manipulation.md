@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: mysql_manipulation
 typora-copy-images-to: mysql_manipulation
-top: 
+top: 1
 ---
 
 

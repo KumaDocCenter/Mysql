@@ -7,7 +7,7 @@ categories:
 tags:
 typora-root-url: mysql_datatype
 typora-copy-images-to: mysql_datatype
-top: 
+top: 1
 ---
 
 
